@@ -1,5 +1,5 @@
 # School District Analysis - Module 4 Challenge
-<sub>Chapel Hill - Data Science Bootcamp</sub>
+<sub>UNC Chapel Hill Data Analytics Bootcamp</sub>
 
 ## Overview of Project
 For Module 4, Pandas - a Python library created for data analysis and manipulation - was used to examine data collected from a school district's high schools. For each student in the district, their name, ID, grade, reading score, math score, school name, school type (public versus private), and school budget were given. With the provided information, the goal was to clean, summarize, drill down into, and compare the data to discover budget- and score-related patterns within the school district.
